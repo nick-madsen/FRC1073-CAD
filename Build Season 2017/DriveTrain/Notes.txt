@@ -1,5 +1,0 @@
-Drivetrain 2017
-
-Short volume has been decided on 
-Overall allowed space: 30x34
-Adjusted to prevent issues in frame: 28x34
